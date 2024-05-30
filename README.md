@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data analysis projects, Case studies
 - 📫 How to reach me email@ tomogolla@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: how bout we create on wu ;)
+- ⚡ Fun fact: how bout we create one wu ;)
 
 <!---
 tomogolla/tomogolla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
